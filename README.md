@@ -16,7 +16,7 @@ Lead and collaborate on tech-driven projects
 Contribute to impactful initiatives through technology
 
 🌍 Current Role
-Frontend Engineer @DecisionSpaak Technologies Limited
+Frontend Engineer @DecisionSpaak Technologies Limited, 
 Technical Team Lead @TCK Tech Academy
 📈 GitHub Stats
 
